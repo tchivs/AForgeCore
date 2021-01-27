@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AForgeCore", "AForgeCore.csproj", "{B778FE70-B6B8-45CD-8716-C380F086A3C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B778FE70-B6B8-45CD-8716-C380F086A3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B778FE70-B6B8-45CD-8716-C380F086A3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B778FE70-B6B8-45CD-8716-C380F086A3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B778FE70-B6B8-45CD-8716-C380F086A3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD9064CA-6857-430C-948D-A40072CEF328}
+	EndGlobalSection
+EndGlobal

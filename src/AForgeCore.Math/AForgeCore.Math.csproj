@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+ <Import Project="..\..\targets2.props" /> 
+  <PropertyGroup>
+  </PropertyGroup> 
+  <ItemGroup>
+    <ProjectReference Include="..\AForgeCore\AForgeCore.csproj" />
+  </ItemGroup>
+
+</Project>
